@@ -14,7 +14,7 @@ public class Cell{
     }
 
     public boolean isEmpty(){
-        return value = ' ';
+        return value == ' ';
     }
 
 }
